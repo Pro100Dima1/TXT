@@ -1,0 +1,16 @@
+Bug_id: 4
+Title: “ADD WIDGET” button is not working on device
+
+Severity: Major
+Priority: Medium
+
+Environment: 
+1) Poco X3 NFC (M2007J20CG), Android 10QKQ1
+2) HONOR 9X (STK-LX1), Android 10
+1.	OnePlus Nord (AC2001), Android 11
+2.	HONOR 30i (LRA-LX1), Android 10
+
+Precondition: clear the desktop
+
+STR: 1) Open app
+ 2) Click “ADD WIDGET” button
