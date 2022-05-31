@@ -1,0 +1,4 @@
+1) Bash
+2) SQL
+3) JavaScript
+4) GIT
